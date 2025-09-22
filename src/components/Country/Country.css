@@ -1,0 +1,17 @@
+.country {
+  border: 2px solid seagreen;
+  margin: 20px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.countryVisited {
+  background-color: burlywood;
+  color: black;
+}
+
+.flag {
+  height: 150px;
+  width: 300px;
+  border-radius: 15px;
+}
